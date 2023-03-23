@@ -41,7 +41,13 @@ mkdir <file name>
   
   creating cron job:
   
-  ![image](https://user-images.githubusercontent.com/85178565/227241025-b1e153dc-edc4-40b6-b4ac-5f0ea1bfbc6e.png)
+  ![image](https://user-images.githubusercontent.com/85178565/227241025-b1e153dc-edc4-40b6-b4ac-5f0ea1bfbc6e.png)!  
+  
+  
+  To see list of cron jobs:crontab -l
+  
+  
+  [image](https://user-images.githubusercontent.com/85178565/227242719-2fda1a93-0c57-4641-a23f-4c73e1c7afe5.png)
 
   
   
